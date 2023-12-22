@@ -1,0 +1,11 @@
+[user]
+	name = James Dorevski
+	email = github@jamesdorevski.com
+
+[alias]
+	st = status
+	aa = add .
+	cm = commit
+	pu = push
+	pl = pull
+	rest = restore 
